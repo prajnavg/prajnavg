@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Prajna.
+I am a full stack developer with 4+ years of experience in IT industry. 
+
 <!--
 **prajnavg/prajnavg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
